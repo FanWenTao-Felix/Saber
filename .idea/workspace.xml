@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a10870cc-7221-4221-a347-07a3a27e897f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/blade.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Archer/Archer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArcherUI/.idea/ArcherUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__cglib_cglib_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_alibaba_druid_1_1_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_alibaba_easyexcel_2_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_alibaba_fastjson_1_2_70.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_core_4_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_ecs_4_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_ram_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_sts_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_aliyun_oss_aliyun_sdk_oss_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_baomidou_mybatis_plus_generator_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_10_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_fasterxml_uuid_java_uuid_generator_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_github_qcloudsms_qcloudsms_1_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_github_whvcse_easy_captcha_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_github_xiaoymin_knife4j_annotations_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_github_xiaoymin_knife4j_core_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_github_xiaoymin_knife4j_micro_spring_boot_starter_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_github_xiaoymin_knife4j_spring_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_github_xiaoymin_knife4j_spring_boot_autoconfigure_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_github_xiaoymin_knife4j_spring_ui_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_google_code_findbugs_annotations_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_google_http_client_google_http_client_1_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_google_http_client_google_http_client_xml_1_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_oracle_ojdbc7_12_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_qcloud_cos_api_5_6_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_qiniu_qiniu_java_sdk_7_2_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_squareup_okhttp3_logging_interceptor_3_14_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_3_14_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_squareup_okio_okio_1_17_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_sun_jersey_jersey_json_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_xkcoding_http_simple_http_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_yunpian_sdk_yunpian_java_sdk_1_2_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__de_ruedigermoeller_fst_2_57.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_lettuce_lettuce_core_5_1_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_minio_minio_6_0_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_netty_netty_buffer_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_netty_netty_codec_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_netty_netty_common_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_netty_netty_handler_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_netty_netty_resolver_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_netty_netty_transport_4_1_49_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_opentracing_opentracing_api_0_33_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_opentracing_opentracing_noop_0_33_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_opentracing_opentracing_util_0_33_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_protostuff_protostuff_api_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_protostuff_protostuff_collectionschema_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_protostuff_protostuff_core_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_protostuff_protostuff_runtime_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_reactivex_rxjava2_rxjava_2_2_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_springfox_springfox_bean_validators_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_swagger_swagger_models_1_5_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_undertow_undertow_core_2_0_30_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_undertow_undertow_servlet_2_0_30_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__io_undertow_undertow_websockets_jsr_2_0_30_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__javax_cache_cache_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__joda_time_joda_time_2_10_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__me_zhyd_oauth_JustAuth_1_15_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__net_logstash_logback_logstash_logback_encoder_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_apache_commons_commons_email_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_cache_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_cache_4_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_codehaus_janino_commons_compiler_3_0_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_codehaus_janino_janino_3_0_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_ehcache_ehcache_3_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_app_engine_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_app_engine_api_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_app_engine_spring_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_bpmn_converter_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_bpmn_model_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_cmmn_api_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_cmmn_converter_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_cmmn_engine_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_cmmn_engine_configurator_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_cmmn_image_generator_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_cmmn_model_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_cmmn_spring_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_cmmn_spring_configurator_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_content_api_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_content_engine_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_content_engine_configurator_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_content_spring_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_content_spring_configurator_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_dmn_api_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_dmn_engine_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_dmn_engine_configurator_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_dmn_model_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_dmn_spring_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_dmn_spring_configurator_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_dmn_xml_converter_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_engine_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_engine_common_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_engine_common_api_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_engine_configurator_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_entitylink_service_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_entitylink_service_api_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_eventsubscription_service_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_eventsubscription_service_api_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_form_api_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_form_engine_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_form_engine_configurator_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_form_json_converter_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_form_model_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_form_spring_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_form_spring_configurator_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_identitylink_service_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_identitylink_service_api_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_idm_api_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_idm_engine_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_idm_engine_configurator_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_idm_spring_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_idm_spring_configurator_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_image_generator_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_job_service_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_job_service_api_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_job_spring_service_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_json_converter_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_process_validation_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_spring_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_spring_boot_autoconfigure_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_spring_boot_starter_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_spring_boot_starter_app_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_spring_boot_starter_cmmn_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_spring_boot_starter_dmn_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_spring_boot_starter_process_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_spring_common_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_spring_configurator_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_spring_security_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_task_service_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_task_service_api_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_variable_service_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_flowable_flowable_variable_service_api_6_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_glassfish_javax_el_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_19_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_ini4j_ini4j_0_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_jacoco_org_jacoco_agent_runtime_0_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_javassist_javassist_3_21_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_jboss_spec_javax_annotation_jboss_annotations_api_1_2_spec_1_0_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_jboss_spec_javax_websocket_jboss_websocket_api_1_1_spec_1_1_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_jboss_xnio_xnio_api_3_3_8_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_jboss_xnio_xnio_nio_3_3_8_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_jdom_jdom_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_jodd_jodd_bean_5_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_jodd_jodd_core_5_0_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_json_json_20170516.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_jsoup_jsoup_1_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_liquibase_liquibase_core_3_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_mybatis_mybatis_3_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_mybatis_mybatis_typehandlers_jsr310_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_postgresql_postgresql_42_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_projectlombok_lombok_1_18_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_redisson_redisson_3_11_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_core_auto_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_core_boot_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_core_db_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_core_launch_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_core_oss_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_core_secure_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_core_sms_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_core_test_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_core_tool_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_api_crypto_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_auth_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_cache_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_datascope_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_develop_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_excel_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_http_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_jwt_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_log_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_mybatis_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_oss_aliyun_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_oss_all_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_oss_minio_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_oss_qiniu_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_oss_tencent_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_redis_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_sms_aliyun_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_sms_all_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_sms_qiniu_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_sms_tencent_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_sms_yunpian_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_social_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_swagger_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springblade_blade_starter_tenant_2_5_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_1_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_undertow_2_1_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_14_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_17_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_spring_aop_5_1_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_spring_beans_5_1_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_spring_context_5_1_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_spring_core_5_1_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_spring_expression_5_1_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_spring_orm_5_1_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_spring_test_5_1_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_spring_tx_5_1_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_spring_web_5_1_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_15_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/libraries/Maven__xpp3_xpp3_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/META-INF/services/org.springblade.core.launch.service.LauncherService" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/META-INF/spring-devtools.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/application-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/banner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/ehcache.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/log/logback-dev.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/log/logback-prod.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/log/logback-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/cache/CacheNames.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/cache/DictBizCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/cache/DictCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/cache/ParamCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/cache/RegionCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/cache/SysCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/cache/UserCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/config/BladeConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/config/BladeLogConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/config/SwaggerConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/constant/CommonConstant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/constant/DictConstant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/constant/LauncherConstant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/constant/TenantConstant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/enums/DictBizEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/enums/DictEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/event/ApiLogListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/event/ErrorLogListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/event/UsualLogListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/filter/PreviewFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/launch/LauncherServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/common/utils/CommonUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/business/controller/WorkController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/business/service/FlowBusinessService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/business/service/IFlowService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/business/service/impl/FlowBusinessServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/business/service/impl/FlowServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/core/constant/ProcessConstant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/core/entity/BladeFlow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/core/entity/FlowEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/core/enums/FlowModeEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/core/utils/FlowUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/core/utils/TaskUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/demo/leave/controller/LeaveController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/demo/leave/entity/ProcessLeave.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/demo/leave/mapper/LeaveMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/demo/leave/mapper/LeaveMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/demo/leave/service/ILeaveService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/demo/leave/service/impl/LeaveServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/engine/config/FlowableConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/engine/constant/FlowEngineConstant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/engine/controller/FlowFollowController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/engine/controller/FlowManagerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/engine/controller/FlowModelController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/engine/controller/FlowProcessController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/engine/entity/FlowExecution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/engine/entity/FlowModel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/engine/entity/FlowProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/engine/mapper/FlowMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/engine/mapper/FlowMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/engine/service/FlowEngineService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/engine/service/impl/FlowEngineServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/flow/engine/utils/FlowCache.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/auth/endpoint/BladeSocialEndpoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/auth/endpoint/BladeTokenEndPoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/auth/enums/BladeUserEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/auth/granter/CaptchaTokenGranter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/auth/granter/PasswordTokenGranter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/auth/granter/RefreshTokenGranter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/auth/granter/SocialTokenGranter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/auth/provider/ITokenGranter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/auth/provider/TokenGranterBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/auth/provider/TokenParameter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/auth/utils/TokenUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/desk/controller/DashBoardController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/desk/controller/NoticeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/desk/entity/Notice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/desk/mapper/NoticeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/desk/mapper/NoticeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/desk/service/INoticeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/desk/service/impl/NoticeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/desk/vo/NoticeVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/desk/wrapper/NoticeWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/develop/controller/CodeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/develop/controller/DatasourceController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/develop/entity/Code.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/develop/entity/Datasource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/develop/mapper/CodeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/develop/mapper/CodeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/develop/mapper/DatasourceMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/develop/mapper/DatasourceMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/develop/service/ICodeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/develop/service/IDatasourceService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/develop/service/impl/CodeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/develop/service/impl/DatasourceServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/builder/oss/AliOssBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/builder/oss/MinioOssBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/builder/oss/OssBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/builder/oss/QiniuOssBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/builder/oss/TencentOssBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/builder/sms/AliSmsBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/builder/sms/QiniuSmsBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/builder/sms/SmsBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/builder/sms/TencentSmsBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/builder/sms/YunpianSmsBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/config/BladeOssConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/config/BladeSmsConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/controller/OssController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/controller/SmsController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/endpoint/OssEndpoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/endpoint/SmsEndpoint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/entity/Oss.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/entity/Sms.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/enums/SmsCodeEnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/mapper/OssMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/mapper/OssMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/mapper/SmsMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/mapper/SmsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/service/IOssService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/service/ISmsService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/service/impl/OssServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/service/impl/SmsServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/utils/SmsUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/vo/OssVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/vo/SmsVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/wrapper/OssWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/resource/wrapper/SmsWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/controller/ApiScopeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/controller/AuthClientController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/controller/DataScopeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/controller/DeptController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/controller/DictBizController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/controller/DictController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/controller/LogApiController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/controller/LogErrorController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/controller/LogUsualController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/controller/MenuController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/controller/ParamController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/controller/PostController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/controller/RegionController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/controller/RoleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/controller/TenantController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/controller/TopMenuController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/dto/DeptDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/dto/DictDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/dto/MenuDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/dto/ParamDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/dto/PostDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/dto/RoleDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/dto/RoleMenuDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/ApiScope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/AuthClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/DataScope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/Dept.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/Dict.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/DictBiz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/Menu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/Param.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/Post.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/Region.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/Role.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/RoleMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/RoleScope.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/Tenant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/TopMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/TopMenuSetting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/UserDept.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/UserInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/entity/UserOauth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/excel/RegionExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/excel/RegionImporter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/excel/UserExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/excel/UserImporter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/ApiScopeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/ApiScopeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/AuthClientMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/AuthClientMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/DataScopeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/DataScopeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/DeptMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/DictBizMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/DictBizMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/DictMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/DictMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/LogApiMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/LogApiMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/LogErrorMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/LogErrorMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/LogUsualMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/LogUsualMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/MenuMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/MenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/ParamMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/ParamMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/PostMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/PostMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/RegionMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/RegionMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/RoleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/RoleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/RoleMenuMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/RoleMenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/RoleScopeMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/RoleScopeMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/TenantMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/TenantMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/TopMenuMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/TopMenuMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/TopMenuSettingMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/TopMenuSettingMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/UserDeptMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/UserDeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/UserOauthMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/mapper/UserOauthMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/IApiScopeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/IAuthClientService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/IDataScopeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/IDeptService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/IDictBizService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/IDictService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/ILogApiService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/ILogErrorService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/ILogService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/ILogUsualService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/IMenuService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/IParamService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/IPostService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/IRegionService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/IRoleMenuService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/IRoleScopeService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/IRoleService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/ITenantService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/ITopMenuService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/ITopMenuSettingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/IUserDeptService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/IUserOauthService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/IUserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/ApiScopeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/AuthClientServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/DataScopeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/DeptServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/DictBizServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/DictServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/LogApiServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/LogErrorServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/LogServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/LogUsualServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/MenuServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/ParamServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/PostServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/RegionServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/RoleMenuServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/RoleScopeServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/RoleServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/TenantServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/TopMenuServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/TopMenuSettingServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/UserDeptServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/UserOauthServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/vo/ApiScopeVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/vo/CheckedTreeVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/vo/DataScopeVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/vo/DeptVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/vo/DictBizVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/vo/DictVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/vo/GrantTreeVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/vo/GrantVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/vo/MenuVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/vo/ParamVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/vo/PostVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/vo/RegionVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/vo/RoleMenuVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/vo/RoleVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/vo/UserVO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/wrapper/ApiScopeWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/wrapper/DataScopeWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/wrapper/DeptWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/wrapper/DictBizWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/wrapper/DictWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/wrapper/MenuWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/wrapper/PostWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/wrapper/RegionWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/wrapper/RoleWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/org/springblade/modules/system/wrapper/UserWrapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/processes/LeaveProcess.bpmn20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/templates/code.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/classes/templates/controller.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/test-classes/application-dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/test-classes/application-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/test-classes/application-test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/test-classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/test-classes/org/springblade/test/BladeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/test-classes/org/springblade/test/CodeGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/test-classes/org/springblade/test/http/OsChina.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/test-classes/org/springblade/test/http/OsChinaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/test-classes/org/springblade/test/http/VBlog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/test-classes/org/springblade/test/http/VNews.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/test-classes/templates/code.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Boot/target/test-classes/templates/controller.java.vm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX-Tool/.idea/BladeX-Tool.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/BladeX.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-auth/blade-auth.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-common/blade-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-gateway/blade-gateway.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops-api/blade-flow-api/blade-flow-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops-api/blade-ops-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops-api/blade-resource-api/blade-resource-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-admin/blade-admin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-develop/blade-develop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-flow-design/blade-flow-design.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-flow/blade-flow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-log/blade-log.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-ops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-resource/blade-resource.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-turbine/blade-turbine.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-xxljob-admin/blade-xxljob-admin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-xxljob/blade-xxljob.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-ops/blade-zipkin/blade-zipkin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service-api/blade-desk-api/blade-desk-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service-api/blade-dict-api/blade-dict-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service-api/blade-scope-api/blade-scope-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service-api/blade-service-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service-api/blade-system-api/blade-system-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service-api/blade-user-api/blade-user-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service/blade-desk/blade-desk.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service/blade-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service/blade-system/blade-system.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BladeX/blade-service/blade-user/blade-user.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArcherUI/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ArcherUI/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BladeX/doc/nacos/blade-dev.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../BladeX/doc/nacos/blade-dev.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\A---Spring\bladeX\blade\Saber\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/apache-maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\apache-maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hUSpx3YIorCEW5PVBrJJAxQFz1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\A---Spring\bladeX\blade\Saber" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a10870cc-7221-4221-a347-07a3a27e897f" name="Default Changelist" comment="" />
+      <created>1600064363996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600064363996</updated>
+      <workItem from="1600064365940" duration="1975000" />
+      <workItem from="1600162045786" duration="754000" />
+      <workItem from="1600162979181" duration="130000" />
+      <workItem from="1600163134491" duration="641000" />
+      <workItem from="1600163949425" duration="1382000" />
+      <workItem from="1600166607023" duration="141000" />
+      <workItem from="1600167636764" duration="1876000" />
+      <workItem from="1600178824526" duration="41000" />
+      <workItem from="1600228536119" duration="930000" />
+      <workItem from="1600234564190" duration="2271000" />
+      <workItem from="1600247244833" duration="3786000" />
+      <workItem from="1600255028795" duration="3000" />
+    </task>
+    <task id="LOCAL-00001" summary="Saber 初始化">
+      <created>1600256222066</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600256222066</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Saber 初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="Saber 初始化" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="572" y="115" key="CommitChangelistDialog2" timestamp="1600256812337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="572" y="115" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1600256812337" />
+    <state x="184" y="92" key="DiffContextDialog" timestamp="1600256349968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="92" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600256349968" />
+    <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1600256399211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600256399211" />
+    <state width="1877" height="727" key="GridCell.Tab.0.bottom" timestamp="1600165478837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="727" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600165478837" />
+    <state width="1877" height="727" key="GridCell.Tab.0.center" timestamp="1600165478836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="727" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600165478836" />
+    <state width="1877" height="727" key="GridCell.Tab.0.left" timestamp="1600165478836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="727" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600165478836" />
+    <state width="1877" height="727" key="GridCell.Tab.0.right" timestamp="1600165478836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="727" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600165478836" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1600256363412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1600256363412" />
+    <state x="763" y="398" key="git4idea.rebase.GitRebaseDialog" timestamp="1600256324203">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="398" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600256324203" />
+    <state x="334" y="227" key="new project wizard" timestamp="1600168958709">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="227" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1600168958709" />
+  </component>
+</project>
